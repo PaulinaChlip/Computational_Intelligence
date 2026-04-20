@@ -1,4 +1,4 @@
-# Computational_Intelligence
+# Computational Intelligence
 A repository for projects implementing computational intelligence methods.
 
 ## Algorytm_Monte_Carlo
