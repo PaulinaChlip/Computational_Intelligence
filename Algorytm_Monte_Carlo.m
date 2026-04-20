@@ -1,4 +1,4 @@
-%% Algorytm Monte Carlo 
+%% Algorytm Monte Carlo
 close all; clear; clc;
 rng(13,"twister");
 N=[101, 1001, 5001, 10001, 50001, 100001];
